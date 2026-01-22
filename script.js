@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
             color: "radial-gradient(circle, #FFD1DC, #D44D8E)",
             imgPlaceHolder: "",
             imgSrc: "slider-img/Untitled Project (32).png",
-            link: "https://www.dbucha.com/products/jednorazowki-merrymi-panda-x-40k-buchow"
+            link: "https://www.dbucha.com/"
         },
         {
             title: "Megabox Pro 50K",
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
             color: "radial-gradient(circle, #D1E8FF, #0056D2)",
             imgPlaceHolder: "⚡",
             imgSrc: "slider-img/Untitled Project (33).png",
-            link: "https://www.dbucha.com/products/jednorazowki-jnr-megabox-pro-50k-buchow"
+            link: "https://www.dbucha.com/"
         },
         {
             title: "Tornado 15K",
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
             color: "radial-gradient(circle, #D4FFD1, #00A651)",
             imgPlaceHolder: "🌪️",
             imgSrc: "slider-img/Untitled Project (55).jpg",
-            link: "https://www.dbucha.com/products/fumot-tornado-15k-buchow"
+            link: "https://www.dbucha.com/"
         }
     ];
 
